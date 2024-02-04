@@ -14,6 +14,7 @@ namespace Duomee
     /// </summary>
     public partial class GameEntry : MonoBehaviour
     {
+        private static ChangeLanguageDebuggerWindow m_ChangeLanguageDebuggerWindow = new ChangeLanguageDebuggerWindow();
         public static BuiltinDataComponent BuiltinData
         {
             get;
@@ -30,6 +31,11 @@ namespace Duomee
         {
             BuiltinData = UnityGameFramework.Runtime.GameEntry.GetComponent<BuiltinDataComponent>();
             HPBar = UnityGameFramework.Runtime.GameEntry.GetComponent<HPBarComponent>();
+        }
+
+        private static void InitCustomDebugger()
+        {
+            Debugger.RegisterDebuggerWindow("Custom/Language", m_ChangeLanguageDebuggerWindow);
         }
     }
 }

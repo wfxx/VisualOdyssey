@@ -18,6 +18,7 @@ namespace Duomee
         {
             InitBuiltinComponents();
             InitCustomComponents();
+            InitCustomDebugger();
         }
     }
 }
