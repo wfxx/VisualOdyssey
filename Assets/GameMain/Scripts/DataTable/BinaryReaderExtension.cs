@@ -9,7 +9,7 @@ using System;
 using System.IO;
 using UnityEngine;
 
-namespace StarForce
+namespace Duomee
 {
     public static class BinaryReaderExtension
     {

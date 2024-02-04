@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace StarForce
+namespace Duomee
 {
     public class UpdateResourceForm : MonoBehaviour
     {

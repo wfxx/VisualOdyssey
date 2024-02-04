@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace StarForce
+namespace Duomee
 {
     /// <summary>
     /// 游戏入口。

@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace StarForce
+namespace Duomee
 {
     public static partial class Constant
     {

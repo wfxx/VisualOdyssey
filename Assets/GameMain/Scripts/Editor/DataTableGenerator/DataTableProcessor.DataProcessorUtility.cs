@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace StarForce.Editor.DataTableTools
+namespace Duomee.Editor.DataTableTools
 {
     public sealed partial class DataTableProcessor
     {

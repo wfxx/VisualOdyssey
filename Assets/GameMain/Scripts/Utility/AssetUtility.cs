@@ -7,7 +7,7 @@
 
 using GameFramework;
 
-namespace StarForce
+namespace Duomee
 {
     public static class AssetUtility
     {

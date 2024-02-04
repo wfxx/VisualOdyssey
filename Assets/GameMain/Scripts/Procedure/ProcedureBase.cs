@@ -5,7 +5,7 @@
 // Feedback: mailto:ellan@gameframework.cn
 //------------------------------------------------------------
 
-namespace StarForce
+namespace Duomee
 {
     public abstract class ProcedureBase : GameFramework.Procedure.ProcedureBase
     {

@@ -7,7 +7,7 @@
 
 using GameFramework.Network;
 
-namespace StarForce
+namespace Duomee
 {
     public abstract class PacketHandlerBase : IPacketHandler
     {

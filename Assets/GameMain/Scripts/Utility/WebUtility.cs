@@ -7,7 +7,7 @@
 
 using System;
 
-namespace StarForce
+namespace Duomee
 {
     public static class WebUtility
     {

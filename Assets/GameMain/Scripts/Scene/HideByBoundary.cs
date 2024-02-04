@@ -8,7 +8,7 @@
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace StarForce
+namespace Duomee
 {
     public class HideByBoundary : MonoBehaviour
     {

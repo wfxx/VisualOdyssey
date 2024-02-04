@@ -8,7 +8,7 @@
 using System;
 using UnityEngine;
 
-namespace StarForce
+namespace Duomee
 {
     [Serializable]
     public class MyAircraftData : AircraftData

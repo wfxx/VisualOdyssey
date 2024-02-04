@@ -5,7 +5,7 @@
 // Feedback: mailto:ellan@gameframework.cn
 //------------------------------------------------------------
 
-namespace StarForce.Editor.DataTableTools
+namespace Duomee.Editor.DataTableTools
 {
     public sealed partial class DataTableProcessor
     {

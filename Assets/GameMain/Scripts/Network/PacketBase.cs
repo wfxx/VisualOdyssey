@@ -8,7 +8,7 @@
 using GameFramework.Network;
 using ProtoBuf;
 
-namespace StarForce
+namespace Duomee
 {
     public abstract class PacketBase : Packet, IExtensible
     {

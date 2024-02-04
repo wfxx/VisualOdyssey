@@ -16,7 +16,7 @@ using System.IO;
 using System.Reflection;
 using UnityGameFramework.Runtime;
 
-namespace StarForce
+namespace Duomee
 {
     public class NetworkChannelHelper : INetworkChannelHelper
     {

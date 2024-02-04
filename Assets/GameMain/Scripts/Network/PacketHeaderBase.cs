@@ -8,7 +8,7 @@
 using GameFramework;
 using GameFramework.Network;
 
-namespace StarForce
+namespace Duomee
 {
     public abstract class PacketHeaderBase : IPacketHeader, IReference
     {
