@@ -19,8 +19,8 @@ namespace Duomee
         [SerializeField]
         private TextAsset m_DefaultDictionaryTextAsset = null;
 
-        [SerializeField]
-        private UpdateResourceForm m_UpdateResourceFormTemplate = null;
+        // [SerializeField]
+        // private UpdateResourceForm m_UpdateResourceFormTemplate = null;
 
         private BuildInfo m_BuildInfo = null;
 
@@ -32,13 +32,13 @@ namespace Duomee
             }
         }
 
-        public UpdateResourceForm UpdateResourceFormTemplate
-        {
-            get
-            {
-                return m_UpdateResourceFormTemplate;
-            }
-        }
+        // public UpdateResourceForm UpdateResourceFormTemplate
+        // {
+        //     get
+        //     {
+        //         return m_UpdateResourceFormTemplate;
+        //     }
+        // }
 
         public void InitBuildInfo()
         {
